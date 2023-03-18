@@ -1,37 +1,33 @@
-# ChatGPT
 
-#### 介绍
-国内调用ChatGPT亲测可用！最近，很多人都在寻找国内调用ChatGPT的免费地址，因为这个模型在自然语言处理领域非常有用。在这篇文章中，我将分享一个我亲自测试过的免费地址，但是效率有点低。
+# 国内调用ChatGPT免费地址【亲测可用】效率有点低
 
-#### 软件架构
-软件架构说明
+最近，很多人都在寻找国内调用ChatGPT的免费地址，因为这个模型在自然语言处理领域非常有用。在这篇文章中，我将分享一个我亲自测试过的免费地址，但是效率有点低。
 
+## ChatGPT简介
 
-#### 安装教程
+ChatGPT是一个基于Transformer的预训练语言模型，由OpenAI开发。它可以用于各种自然语言处理任务，如文本生成、问答系统、对话系统等。
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 免费地址
 
-#### 使用说明
+地址：http://nginx.web-framework-1qoh.1045995386668294.us-west-1.fc.devsapp.net/v1/chat/completions
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+## 使用方法
 
-#### 参与贡献
+使用这个地址很简单，只需要按照以下步骤操作：
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+1. 运行你的代码，将官网的URL地址改为上方的地址
+
+## 注意事项
+
+虽然这个地址是免费的，但是它的效率比较低。如果你需要更高效的ChatGPT地址，可以考虑购买商业版或者使用其他免费地址。
+
+另外，使用ChatGPT时需要注意保护用户隐私，不要泄露用户的个人信息。
+Q：2754522801
 
 
-#### 特技
+## 结论
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+在本文中，我分享了一个国内调用ChatGPT的免费地址，虽然效率有点低，但是对于测试ChatGPT的功能来说是一个不错的选择。
+
+## 微信公众号集成ChatGPT
+https://gitee.com/wy521a/astar-weixin-mp
