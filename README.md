@@ -9,7 +9,7 @@ ChatGPT是一个基于Transformer的预训练语言模型，由OpenAI开发。�
 
 ## 免费地址
 
-地址：http://nginx.web-framework-1qoh.1045995386668294.us-west-1.fc.devsapp.net/v1/chat/completions
+地址：http://proxy.astarcloud.top/v1/chat/completions
 
 ## 使用方法
 
